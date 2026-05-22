@@ -1,3 +1,4 @@
-# Python
-Python Developer ![Uploading image.png…]()
- | Passionate about writing clean, efficient, and readable code. Focused on building automation scripts, data analysis tools, and backend applications. Exploring machine learning and open-source collaboration. Check out my repositories to see what I'm working on! 🚀
+# Python 🇵🇾
+Python is a high-level, interpreted, general-purpose programming language known for its simplicity, readability, and elegant syntax. It emphasizes code clarity and allows developers to express concepts in fewer lines of code compared to languages like C++ or Java. Python supports multiple programming paradigms, including object-oriented, procedural, and functional programming.
+
+Python was created by Guido van Rossum in the late 1980s while he was working at Centrum Wiskunde & Informatica (CWI) in the Netherlands. The language was first released in 1991. Guido named it after the British comedy series “Monty Python’s Flying Circus,” not the snake. The early versions (Python 1.0 in 1994 and Python 2.0 in 2000) gained steady popularity. However, the major turning point came with Python 3.0 in 2008, which introduced significant improvements and broke backward compatibility with Python 2 to fix long-standing design flaws. After a long transition period, Python 2 was officially discontinued in 2020, and Python 3 (currently at version 3.11/3.12+) became the standard.
